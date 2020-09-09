@@ -13,4 +13,10 @@
       android:layout_height="wrap_content"
       android:text="ImageSegmenter"/>
 
+  <Button
+      android:id="@+id/open_obj_detector"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="ObjectDetector"/>
+
 </LinearLayout>
